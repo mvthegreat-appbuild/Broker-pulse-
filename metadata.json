@@ -1,0 +1,6 @@
+{
+  "name": "BrokerPulse",
+  "description": "Real-time Indian brokerage stock recommendation tracker with live NSE/BSE CMP, entry/target/stop-loss alerts, automatic portfolio updates, and historical accuracy analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

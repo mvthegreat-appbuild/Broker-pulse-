@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BrokerPulse</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_feed">Research</string>
+    <string name="nav_portfolio">Portfolio</string>
+    <string name="nav_analytics">History</string>
+    <string name="cd_refresh_quotes">Refresh live market prices</string>
+    <string name="cd_add_recommendation">Add stock recommendation</string>
+    <string name="cd_market_banner">Stock market analytics banner</string>
+    <string name="cd_notifications">Notifications</string>
+    <string name="cd_open_article">Open source article in browser</string>
+    <string name="cd_delete_recommendation">Remove recommendation</string>
+    <string name="cd_edit_recommendation">Edit recommendation</string>
+    <string name="msg_no_recommendations">No tracked calls yet. Add a brokerage recommendation or pick one from the Research feed to start live CMP tracking.</string>
+    <string name="msg_no_portfolio_active">No active positions yet. When a tracked stock hits its Entry Price, it automatically enters your Portfolio here.</string>
+    <string name="msg_no_portfolio_closed">No closed trades yet. Once an active position hits Target or Stop Loss, its realized P&amp;L is logged here automatically.</string>
+    <string name="msg_no_alerts">No trigger alerts recorded yet. Entry, Target Hit, and Stop-Loss Hit events will appear here in real time.</string>
+</resources>
